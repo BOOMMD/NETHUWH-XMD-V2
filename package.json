@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created By  nethuwh",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name CHAMA-MD",
-    "stop": "pm2 stop ɴᴇᴛʜᴜᴡʜ",
-    "restart": "pm2 restart ɴᴇᴛʜᴜᴡʜ"
+    "start": "pm2 start index.js --deep-monitoring --attach --name NETHUWH-XMD",
+    "stop": "pm2 stop NETHUWH-XMD",
+    "restart": "pm2 restart NETHUWH-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
